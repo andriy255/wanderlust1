@@ -6,7 +6,7 @@
 h1{
     color: white;
     font-size: 52px;
-    font-family: verdana;
+    font-family: 'Secular One', sans-serif;   
     line-height: 8;
     position: absolute;
     left: 2.7%;
@@ -19,8 +19,12 @@ h1{
     position: absolute;
     left:3%;
     text-decoration: none;
+    transition: 1s ease;
     color: white;
     top: 0%;
+}
+.text_1:hover{
+ transform: scale(1.2);
 }
 .text_2{
     font-size: 20px;
@@ -29,8 +33,12 @@ h1{
     position: absolute;
     left:12%;
     text-decoration: none;
+    transition: 1s ease;
     color: white;
     top: 0%;
+}
+.text_2:hover{
+ transform: scale(1.2);
 }
 .text_3{
     font-size: 20px;
@@ -39,9 +47,14 @@ h1{
     position: absolute;
     left:22%;
     text-decoration: none;
+    transition: 1s ease;
     color: white;
     top: 0%;
 }
+.text_3:hover{
+    transform: scale(1.2);
+   }
+
 
 
 
@@ -69,7 +82,7 @@ h1{
     h1{
         color: white;
         font-size: 17px;
-        font-family: verdana;
+        font-family: 'Secular One', sans-serif;
         line-height: 9.8;
         position: absolute;
         left: 3%;
