@@ -1,0 +1,82 @@
+
+.foto{
+    max-width: 100%;
+    top: 0%;
+}
+h1{
+    color: white;
+    font-size: 52px;
+    font-family: verdana;
+    line-height: 8;
+    position: absolute;
+    left: 2.7%;
+    top: 9%;
+}
+.text_1{
+    font-size: 20px;
+    line-height: 5;
+    font-family: 'DM Sans', sans-serif;
+    position: absolute;
+    left:3%;
+    text-decoration: none;
+    color: white;
+    top: 0%;
+}
+.text_2{
+    font-size: 20px;
+    line-height: 5;
+    font-family: 'DM Sans', sans-serif;
+    position: absolute;
+    left:12%;
+    text-decoration: none;
+    color: white;
+    top: 0%;
+}
+.text_3{
+    font-size: 20px;
+    line-height: 5;
+    font-family: 'DM Sans', sans-serif;
+    position: absolute;
+    left:22%;
+    text-decoration: none;
+    color: white;
+    top: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:384px) {
+    h1{
+        color: white;
+        font-size: 17px;
+        font-family: verdana;
+        line-height: 9.8;
+        position: absolute;
+        left: 3%;
+        top: 0%;
+    }
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
